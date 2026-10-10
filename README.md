@@ -254,4 +254,4 @@ account is assigned (see the guide's troubleshooting table).
 
 ## Licence and credits
 
-Weather data © Open-Meteo, CC BY 4.0. Fonts: Inter and Noto Sans Devanagari (SIL OFL 1.1, via Fontsource).
+MIT License
