@@ -24,15 +24,16 @@ one tap, and anyone can **listen** to it in Hindi. Built by team
 
 > Prototype. Not an emergency service: in an emergency call **112**.
 
-| Home: live weather with read-aloud | Map of Delhi |
-|---|---|
-| ![JalDrishti home page with weather and the Listen button](docs/screenshots/desktop-home.jpg) | ![Dark OpenStreetMap of Delhi with heat readings](docs/screenshots/desktop-map.jpg) |
+<img width="1553" height="896" alt="Screenshot 2026-10-11 000725" src="https://github.com/user-attachments/assets/88a7f9e1-f213-4720-b0d5-bd71387c3a63" />
 
-| On a phone: 🔊 सुनें (Listen) | A report: confirm it, or share it on WhatsApp |
-|---|---|
-| <img src="docs/screenshots/phone-weather-listen.jpg" alt="Phone view of the weather panel with the Listen button" width="300"> | <img src="docs/screenshots/phone-report-share.jpg" alt="Phone view of a report with I saw it too and Share on WhatsApp buttons (test report)" width="300"> |
+<img width="1532" height="892" alt="Screenshot 2026-10-11 001551" src="https://github.com/user-attachments/assets/65d7acca-d3d1-4aa7-a67c-41d1ab7aa3d7" />
 
-<sub>The report shown is a test report from a local run; the live site never shows sample data.</sub>
+<img width="1482" height="857" alt="Screenshot 2026-10-11 001912" src="https://github.com/user-attachments/assets/e64f8660-8cae-45a8-990d-fa0597e52a90" />
+
+<img width="1427" height="900" alt="Screenshot 2026-10-11 001947" src="https://github.com/user-attachments/assets/3b39426c-0d13-4e47-980a-19bf21aa80d8" />
+
+
+
 
 ## How people use it
 
