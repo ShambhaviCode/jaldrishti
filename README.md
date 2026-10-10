@@ -3,7 +3,7 @@
 **मेरे इलाके में क्या हो रहा है, जानकारी कितनी नई है, और मैं क्या कर सकता हूँ?**
 *What's happening on my street, how old is that information, and what can I do?*
 
-**[▶ Live demo](https://main.d3d8k3q572kn9v.amplifyapp.com)** · [Architecture](#architecture) · [Why these AWS services](docs/aws-decisions.md) · [Deploy guide](docs/DEPLOY-WINDOWS.md)
+**[▶ Live demo](https://main.d3d8k3q572kn9v.amplifyapp.com)** · [Architecture](#architecture) 
 
 ![AWS Amplify](https://img.shields.io/badge/AWS-Amplify%20Hosting-FF9900?logo=awsamplify&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/AWS-API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white)
