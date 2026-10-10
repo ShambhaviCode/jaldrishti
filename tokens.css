@@ -1,0 +1,69 @@
+/* JalDrishti design tokens. One dark theme by design (command-centre brief). */
+:root {
+  color-scheme: dark;
+
+  /* Base palette */
+  --navy-950: #070f1d;
+  --navy-900: #0a1628; /* page */
+  --navy-850: #0d1c31;
+  --navy-800: #10223a; /* panels */
+  --navy-700: #183150; /* raised / hover */
+  --line: #20385a; /* hairlines */
+  --line-strong: #2d4a72;
+  --teal-800: #0e4d52;
+  --teal-600: #137a7d;
+  --aqua: #4fd1c5; /* actions, focus */
+  --aqua-ink: #04201e; /* text on aqua */
+  --amber: #e8a33d; /* heat only */
+
+  --text: #e6eef5;
+  --text-2: #a9bacb; /* secondary: 9.1:1 on navy-900, 8.1:1 on navy-800 */
+  --text-3: #7f93a8; /* tertiary: 5.7:1 on navy-900, 5.1:1 on navy-800 (AA) */
+
+  /* Data categories: colour + distinct glyph, never colour alone */
+  --c-heat: var(--amber);
+  --c-waterlogging: #5ab0f0;
+  --c-leak: #3fd29f;
+  --c-tanker-need: #f08aa0;
+  --c-tanker-available: #b3a6f5;
+  --c-other: #a3b6ca;
+  --c-groundwater: #8a9bb0;
+
+  /* Status */
+  --ok: #3fd29f;
+  --warn: #e8a33d;
+  --danger: #ff7b7b;
+
+  /* Type */
+  --font: 'Inter Variable', 'Noto Sans Devanagari', system-ui, sans-serif;
+  --fs-xs: 0.8125rem;
+  --fs-sm: 0.875rem;
+  --fs-md: 1rem;
+  --fs-lg: 1.25rem;
+  --fs-xl: 1.75rem;
+  --fs-display: clamp(2.5rem, 1.6rem + 3.6vw, 4.5rem);
+  --lh-body: 1.6; /* Devanagari matras need room */
+  --lh-tight: 1.15;
+
+  /* Space (4px base) */
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 12px;
+  --s-4: 16px;
+  --s-5: 24px;
+  --s-6: 32px;
+  --s-7: 48px;
+  --s-8: 72px;
+
+  /* Shape: radius follows hierarchy (controls small, panels medium) */
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 16px;
+
+  --gutter: clamp(16px, 4vw, 40px);
+  --maxw: 1320px;
+
+  --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --t-fast: 140ms;
+  --t-med: 260ms;
+}
