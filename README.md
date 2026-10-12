@@ -32,6 +32,9 @@ one tap, and anyone can **listen** to it in Hindi. Built by team
 
 <img width="1427" height="900" alt="Screenshot 2026-10-11 001947" src="https://github.com/user-attachments/assets/3b39426c-0d13-4e47-980a-19bf21aa80d8" />
 
+<img width="1492" height="895" alt="image" src="https://github.com/user-attachments/assets/ff0c4305-5c45-417c-b62a-00281ed8271a" />
+
+
 
 
 
